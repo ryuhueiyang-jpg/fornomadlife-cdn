@@ -27936,27 +27936,28 @@ window.AUTHORITY_MAP = {
   ],
 },
   "신용점수 올리기": {
-    "@type": "HowTo",
-    "name": "올원/KCB 신용점수 단기 올리기 노하우",
-    "priority": "high",
-    "description": "체크카드 사용, 비금융정보 제출 등을 통한 실용적 신용점수 향상 방법",
-    "about": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%9A%A9%EC%A0%90%EC%88%98",
-    "sameAs": [
-      "https://www.fss.or.kr",
-      "https://www.kcb.co.kr"
-    ],
-    "isRelatedTo": [
-      "KCB 신용점수 올리기",
-      "NICE 신용점수 올려주기",
-      "신용등급 올리는 법",
-      "신용점수 기준"
-    ],
-    "mentions": [
-      "신용점수 올리는 데 얼마나 걸리나요?",
-      "체크카드만 써도 신용점수가 오르나요?"
-    ]
-  },
-  "신용카드 수직 할인 짠테크": {
+  "@type": "HowTo",
+  "name": "올원/KCB 신용점수 단기 올리기 노하우",
+  "priority": "high",
+  "description": "체크카드 사용, 비금융정보 제출 등을 통한 실용적 신용점수 향상 방법",
+  "about": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%9A%A9%ED%8F%89%EA%B0%80",
+  "sameAs": [
+    "https://www.fss.or.kr",
+    "https://www.kcb.co.kr",
+    "https://www.niceinfo.co.kr"
+  ],
+  "isRelatedTo": [
+    "KCB 신용점수 올리기",
+    "NICE 신용점수 올려주기",
+    "신용등급 올리는 법",
+    "신용점수 기준"
+  ],
+  "mentions": [
+    "신용점수 올리는 데 얼마나 걸리나요?",
+    "체크카드만 써도 신용점수가 오르나요?"
+  ]
+},
+  "신용카드 수직 ,할인 짠테크": {
     "@type": "HowTo",
     "name": "생활비 줄이는 신용카드 혜택 피킹률 계산 및 피킹방법",
     "priority": "medium",
