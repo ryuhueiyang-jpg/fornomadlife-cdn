@@ -29894,6 +29894,32 @@ window.AUTHORITY_MAP = {
       "과탄산소다로 에어컨 청소해도 되나요?"
     ]
   },
+ "에어컨 악취 원인": {
+    "@type": "Thing",
+    "name": "에어컨 악취 원인",
+    "priority": "high",
+    "description": "냉방 중 열교환기(냉각핀)와 드레인 팬에 응결된 수분과 실내 먼지가 결합하여 번식하는 곰팡이 및 세균에 의해 발생하는 냄새의 근본 원인과 해결책",
+    "about": "https://ko.wikipedia.org/wiki/%EA%B3%B0%ED%8C%A1%EC%9D%B4",
+    "sameAs": [
+      "https://www.kdca.go.kr",
+      "https://www.me.go.kr"
+    ],
+    "links": [
+      "https://daily.fornomadlife.com/2026/08/air-conditioner-cleaning-odor-removal-guide-ko.html"
+    ],
+    "isRelatedTo": [
+      "에어컨 곰팡이 냄새",
+      "열교환기 응결수",
+      "에어컨 습기 제거",
+      "자동 건조 기능"
+    ],
+    "mentions": [
+      "에어컨 쉰내 원인",
+      "에어컨 송풍 20분 건조",
+      "에어컨 곰팡이 냄새 제거",
+      "냉각핀 곰팡이 억제법"
+    ],
+  },
   "에어컨 인버터 정속형 구별": {
     "@type": "Thing",
     "name": "에어컨 인버터 정속형 구별법",
@@ -30013,8 +30039,11 @@ window.AUTHORITY_MAP = {
     "name": "에어컨 청소법",
     "priority": "high",
     "description": "셀프로 필터와 냉각핀을 청소하여 냄새를 제거하고 전기요금을 절감하는 실용 살림 노하우입니다.",
-    "about": "스탠드 및 벽걸이 에어컨 셀프 청소 및 악취 제거",
-    "sameAs": "https://terms.naver.com",
+    "about": "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4%EC%BB%A8",
+    "sameAs": [
+      "https://www.safetykorea.kr",
+      "https://www.kca.go.kr"
+    ],
     "isRelatedTo": [
       "벽걸이 에어컨 셀프 청소",
       "에어컨 냄새 제거 식초",
