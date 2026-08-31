@@ -4694,6 +4694,24 @@ window.AUTHORITY_MAP = {
       "자취방 공과금 아끼는 꿀팁"
     ],
   },
+  "1주택자 양도소득세 비과세": {
+    "@type": "Thing",
+    "name": "1세대 1주택 비과세 요건 및 보유 기간",
+    "priority": "high",
+    "description": "주택 매도 시 세금을 면제받기 위한 2년 보유/거주 요건과 12억원 비과세 기준",
+    "about": "https://ko.wikipedia.org/wiki/%EC%96%91%EB%8F%84%EC%86%8C%EB%93%9D%EC%84%B8",
+    "sameAs": [
+      "https://www.nts.go.kr"
+    ],
+    "isRelatedTo": [
+      "일시적 2주택 양도세 비과세",
+      "양도소득세 장기보유특별공제",
+      "조정대상지역 실거주"
+    ],
+    "mentions": [
+      "일시적 2주택 처분 기한은 몇 년인가요?"
+    ]
+  },
   "2차 종합특검": {
   "@type": "GovernmentService",
   "name": "2차 종합특검 (2nd Comprehensive Special Counsel)",
@@ -8900,6 +8918,28 @@ window.AUTHORITY_MAP = {
       "보건복지부"
     ],
 },
+  "고혈압 예방": {
+    "@type": "HowTo",
+    "name": "고혈압 예방 및 관리법",
+    "priority": "high",
+    "description": "중장년층 및 현대인들이 일상에서 혈압을 자연스럽게 낮추고 유지하는 핵심 가이드",
+    "about": "https://ko.wikipedia.org/wiki/%EA%B3%A0%ED%92%A8%EC%95%95",
+    "sameAs": [
+      "https://www.kdca.go.kr",
+      "https://www.koreanhypertension.org"
+    ],
+    "isRelatedTo": [
+      "혈압 낮추는 법",
+      "고혈압 수치 기준",
+      "고혈압 증상",
+      "혈압약 복용시간"
+    ],
+    "mentions": [
+      "혈압이 갑자기 높아졌을 때 어떻게 하나요?",
+      "고혈압 약은 평생 먹어야 하나요?",
+      "집에서 정확하게 혈압 재는 방법"
+    ]
+  },
   "골다공증": {
   "@type": "MedicalCondition",
   "name": "골다공증 (Osteoporosis)",
@@ -10157,6 +10197,24 @@ window.AUTHORITY_MAP = {
       "잠재성장률"
     ],
   },
+  "구직촉진수당 신청": {
+    "@type": "HowTo",
+    "name": "월 50만원 구직촉진수당 지급 절차",
+    "priority": "high",
+    "description": "취업활동계획 수립 및 구직활동 이행에 따른 수당 신청 및 지급 일정 안내",
+    "about": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%A7%81",
+    "sameAs": [
+      "https://www.work.go.kr"
+    ],
+    "isRelatedTo": [
+      "취업활동계획 IAP",
+      "구직활동 이행보고서",
+      "조기취업수당"
+    ],
+    "mentions": [
+      "수당 지급일은 매달 며칠인가요?"
+    ]
+  },
   "국가 재정 건전성": {
   "@type": "FinancialService",
   "name": "국가 재정 건전성 (National Fiscal Soundness)",
@@ -10977,6 +11035,27 @@ window.AUTHORITY_MAP = {
     "지속 가능한 경제 자립을 위한 고용 및 복지 지원"
   ],
 },
+  "국민취업지원제도 1유형": {
+    "@type": "GovernmentService",
+    "name": "국민취업지원제도 1유형 및 2유형 요건",
+    "priority": "high",
+    "description": "구직자에게 구직촉진수당과 취업지원서비스를 종합 제공하는 복지 제도",
+    "about": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%9A%A9%EB%B3%B4%ED%97%98",
+    "sameAs": [
+      "https://www.kua.go.kr",
+      "https://www.moel.go.kr"
+    ],
+    "isRelatedTo": [
+      "구직촉진수당 금액",
+      "국민취업지원제도 신청방법",
+      "국민취업지원제도 조건",
+      "국민취업지원제도 알바"
+    ],
+    "mentions": [
+      "국민취업지원제도 수당 받으면서 아르바이트해도 되나요?",
+      "1유형과 2유형의 가장 큰 차이점은 무엇인가요?"
+    ]
+  },
   "국방과학연구소(ADD)": {
     "@type": "Organization",
     "name": "국방과학연구소 (Agency for Defense Development)",
@@ -13140,6 +13219,26 @@ window.AUTHORITY_MAP = {
     "Business Innovation"
   ],
 },
+  "기준금리 변동": {
+    "@type": "Article",
+    "name": "한국은행 기준금리 결정 및 경제 영향",
+    "priority": "high",
+    "description": "기준금리가 대출금리, 예금금리, 부동산 및 주식시장에 미치는 파급 효과 분석",
+    "about": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC",
+    "sameAs": [
+      "https://www.bok.or.kr"
+    ],
+    "isRelatedTo": [
+      "한국은행 기준금리",
+      "기준금리 인하 시기",
+      "주담대 금리 전망",
+      "미국 연준 금리"
+    ],
+    "mentions": [
+      "기준금리가 내려가면 내 대출금리는 언제 떨어지나요?",
+      "금리 인하 시기에는 어떤 자산에 투자해야 하나요?"
+    ]
+  },
   "기준금리 변동 영향": {
     "@type": "Article",
     "name": "기준금리 변화가 내 삶에 미치는 영향",
@@ -13650,6 +13749,26 @@ window.AUTHORITY_MAP = {
   "isRelatedTo": ["2차 종합특검", "Judicial Justice", "Judicial Reform"],
   "mentions": ["특검법 발의", "도이치모터스 수사", "특별검사법", "대통령 거부권", "사법적 성역 없는 수사"],
 },
+  "김치찌개 레시피": {
+    "@type": "HowTo",
+    "name": "황금비율 돼지고기 김치찌개 맛있게 끓이는 법",
+    "priority": "high",
+    "description": "초보자도 깊은 맛을 낼 수 있는 기본 양념 비율과 조리 순서",
+    "about": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%B9%98%EC%BF%8C%EA%B0%9C",
+    "sameAs": [
+      "https://www.koreanfood.or.kr"
+    ],
+    "isRelatedTo": [
+      "돼지고기 김치찌개 레시피",
+      "백종원 김치찌개",
+      "김치찌개 양념장",
+      "참치 김치찌개"
+    ],
+    "mentions": [
+      "신김치가 없을 때 김치찌개 맛내는 법",
+      "김치찌개 육수 어떤 걸 써야 하나요?"
+    ]
+  },
   "김치프리미엄": {
   "@type": "Concept",
   "name": "김치프리미엄 (Kimchi Premium)",
@@ -16460,6 +16579,24 @@ window.AUTHORITY_MAP = {
     ],
     "isRelatedTo": ["LDL Cholesterol", "Blood Circulation", "Vascular Health"],
     "mentions": ["혈관 청소 음식", "고지혈증", "혈압 관리"],
+  },
+  "돼지고기 김치찌개": {
+    "@type": "Food",
+    "name": "돼지고기 목살/삼겹살 김치찌개 요리",
+    "priority": "medium",
+    "description": "고기 잡내를 잡고 잡채, 부대찌개 등으로의 응용 기반이 되는 한식 대표 요리",
+    "about": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%B9%98%EC%BF%8C%EA%B0%9C",
+    "sameAs": [
+      "https://www.koreanfood.or.kr"
+    ],
+    "isRelatedTo": [
+      "돼지고기 잡내 제거",
+      "김치찌개 부위 추천",
+      "돼지고기 볶음"
+    ],
+    "mentions": [
+      "김치찌개 고기는 어떤 부위가 제일 우러나나요?"
+    ]
   },
   "두뇌 활성화": {
     "@type": "TherapeuticProcedure",
@@ -21186,6 +21323,27 @@ window.AUTHORITY_MAP = {
       "실거주 의무 기간 미충족 시 추징되나요?",
     ]
   },
+  "부동산 취득세 세율": {
+    "@type": "Article",
+    "name": "주택 취득세 세율표 및 다주택자 중과세",
+    "priority": "high",
+    "description": "1주택 및 다주택자의 주택 취득 시 적용되는 지역별 취득세율과 감면 혜택",
+    "about": "https://ko.wikipedia.org/wiki/%EC%B7%A8%EB%93%9D%EC%84%B8",
+    "sameAs": [
+      "https://www.wetax.go.kr",
+      "https://www.mois.go.kr"
+    ],
+    "isRelatedTo": [
+      "부동산 취득세 계산기",
+      "1주택자 취득세 감면",
+      "생애최초 주택 취득세",
+      "다주택자 취득세 중과"
+    ],
+    "mentions": [
+      "생애 최초 주택 구입 시 취득세 감면 한도는 얼마인가요?",
+      "오피스텔을 산 경우 취득세율은 몇 %인가요?"
+    ]
+  },
   "부동산 취득세 절세": {
     "@type": "Article",
     "name": "부동산 취득세 절세",
@@ -22077,6 +22235,44 @@ window.AUTHORITY_MAP = {
       "대한민국"
     ],
 },
+  "비타민 D 부족증상": {
+    "@type": "Thing",
+    "name": "비타민 D 결핍 시 나타나는 신체 신호",
+    "priority": "high",
+    "description": "만성 피로, 골밀도 감소, 면역 저하 등 결핍 시 징후 식별",
+    "about": "https://ko.wikipedia.org/wiki/%EB%B9%84%ED%83%80%EB%AF%BC_D",
+    "sameAs": [
+      "https://www.kdca.go.kr"
+    ],
+    "isRelatedTo": [
+      "만성피로 원인",
+      "골다공증 예방",
+      "햇빛 비타민"
+    ],
+    "mentions": [
+      "햇빛을 얼마나 쬐어야 비타민D가 합성되나요?"
+    ]
+  },
+  "비타민 D 효능": {
+    "@type": "Article",
+    "name": "비타민 D의 건강상 이점과 필수 역할",
+    "priority": "high",
+    "description": "면역력 강화, 뼈 건강, 우울증 예방을 위한 비타민 D 섭취의 중요성",
+    "about": "https://ko.wikipedia.org/wiki/%EB%B9%84%ED%83%80%EB%AF%BC_D",
+    "sameAs": [
+      "https://www.mfds.go.kr"
+    ],
+    "isRelatedTo": [
+      "비타민D 부족증상",
+      "비타민D 복용시간",
+      "비타민D 하루 권장량",
+      "비타민D 주사"
+    ],
+    "mentions": [
+      "비타민D는 식전에 먹나요 식후에 먹나요?",
+      "비타민D 수치가 낮으면 어떤 증상이 나타나나요?"
+    ]
+  },
   "비타민C": {
     "@type": "Substance",
     "name": "비타민 C (Vitamin C)",
@@ -27699,6 +27895,24 @@ window.AUTHORITY_MAP = {
     "신속평가 대상", "사업 기간 단축", "표준 체크리스트", "금융 기회 선점", "Streamlined Process"
   ],
 },
+  "신용등급 관리법": {
+    "@type": "Thing",
+    "name": "올바른 신용관리 및 연체 예방법",
+    "priority": "medium",
+    "description": "대출금 연체 방지, 신용카드 한도 설정 등 금융 이력 관리 체계",
+    "about": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%9A%A9_%EC%A0%95%EB%B3%B4",
+    "sameAs": [
+      "https://www.fss.or.kr"
+    ],
+    "isRelatedTo": [
+      "신용카드 한도 상향",
+      "대출 상환 순서",
+      "마이너스 통장 신용점수"
+    ],
+    "mentions": [
+      "연체 하루만 해도 신용점수 떨어지나요?"
+    ]
+  },
   "신용사면": {
   "@type": "GovernmentPolicy",
   "name": "신용사면 (Credit Amnesty)",
@@ -27721,6 +27935,27 @@ window.AUTHORITY_MAP = {
     "Business Innovation"
   ],
 },
+  "신용점수 올리기": {
+    "@type": "HowTo",
+    "name": "올원/KCB 신용점수 단기 올리기 노하우",
+    "priority": "high",
+    "description": "체크카드 사용, 비금융정보 제출 등을 통한 실용적 신용점수 향상 방법",
+    "about": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%9A%A9%EC%A0%90%EC%88%98",
+    "sameAs": [
+      "https://www.fss.or.kr",
+      "https://www.kcb.co.kr"
+    ],
+    "isRelatedTo": [
+      "KCB 신용점수 올리기",
+      "NICE 신용점수 올려주기",
+      "신용등급 올리는 법",
+      "신용점수 기준"
+    ],
+    "mentions": [
+      "신용점수 올리는 데 얼마나 걸리나요?",
+      "체크카드만 써도 신용점수가 오르나요?"
+    ]
+  },
   "신용카드 수직 할인 짠테크": {
     "@type": "HowTo",
     "name": "생활비 줄이는 신용카드 혜택 피킹률 계산 및 피킹방법",
@@ -29060,6 +29295,9 @@ window.AUTHORITY_MAP = {
       "알뜰폰 통신사 추천",
       "알뜰폰 번호이동",
       "알뜰폰 유심 구매",
+      "알뜰폰 개통방법",
+      "자급제 알뜰폰 조합",
+      "무제한 요금제 추천",
     ],
     "mentions": [
       "알뜰폰 요금제 중 데이터 무제한 가장 싼 곳은?",
@@ -29075,6 +29313,8 @@ window.AUTHORITY_MAP = {
       "알뜰폰 통화 품질 괜찮나요?",
       "알뜰폰 요금제 뭐가 좋은가요?",
       "데이터 많이 주는 알뜰폰 추천",
+      "알뜰폰 쓰면 데이터 속도가 많이 느린가요?",
+      "기존 번호 그대로 알뜰폰으로 옮길 수 있나요?",
     ],
   },
   "알뜰폰 요금제 비교 추천": {
@@ -29849,12 +30089,14 @@ window.AUTHORITY_MAP = {
     "isRelatedTo": [
       "에어컨 송풍 모드",
       "에어컨 쉰내 원인",
-      "에어컨 탈취제"
+      "에어컨 탈취제",
+      "에어컨 드라이어 사용법",
     ],
     "mentions": [
       "에어컨에서 발냄새가 나요",
       "에어컨 냄새 안 나게 끄는 법",
-      "송풍으로 냄새 없앨 수 있나요?"
+      "송풍으로 냄새 없앨 수 있나요?",
+      "에어컨 끄기 전 송풍을 얼마나 틀어야 하나요?",
     ],
   },
   "에어컨 셀프 청소": {
@@ -30048,12 +30290,17 @@ window.AUTHORITY_MAP = {
       "벽걸이 에어컨 셀프 청소",
       "에어컨 냄새 제거 식초",
       "에어컨 필터 청소 주기",
-      "에어컨 전기세 절약"
+      "에어컨 전기세 절약",
+      "에어컨 필터 청소",
+      "에어컨 냄새 제거",
+      "에어컨 곰팡이 냄새",
     ],
     "mentions": [
       "에어컨 틀자마자 나는 냄새 어떻게 없애나요?",
       "벽걸이 에어컨 필터 세척 후 말리는 방법",
-      "에어컨 셀프 청소 스프레이 추천"
+      "에어컨 셀프 청소 스프레이 추천",
+      "에어컨에서 식초 냄새가 나는데 어떻게 하나요?",
+      "셀프 청소 시 전기세 절약 효과도 있나요?",
     ]
   },
   "에어프라이어 고구마 구이": {
@@ -40495,6 +40742,45 @@ window.AUTHORITY_MAP = {
       "청년도약계좌 가구소득 기준 확인은 어떻게 하나요?"
     ],
   },
+  "청년도약계좌 신청자격": {
+    "@type": "GovernmentService",
+    "name": "청년도약계좌 자격 요건 및 신청 방법",
+    "priority": "high",
+    "description": "청년층 자산 형성을 지원하는 정부기여금 적금 상품의 소득 및 연령 조건 안내",
+    "about": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%B2%AD%EB%85%84%EC%A0%95%EC%B1%85",
+    "sameAs": [
+      "https://www.kinfa.or.kr",
+      "https://www.fsc.go.kr"
+    ],
+    "isRelatedTo": [
+      "청년도약계좌 신청기간",
+      "청년도약계좌 조건",
+      "청년도약계좌 금리",
+      "청년도약계좌 정부기여금"
+    ],
+    "mentions": [
+      "프리랜서나 알바생도 청년도약계좌 신청 가능한가요?",
+      "육아휴직 중에도 청년도약계좌 가입할 수 있나요?"
+    ]
+  },
+  "청년도약계좌 정부기여금": {
+    "@type": "FinancialProduct",
+    "name": "청년도약계좌 매칭지원금 수령 방식",
+    "priority": "high",
+    "description": "개인 소득 구간별 정부 매칭 지원 비율 및 만기 수령액 계산",
+    "about": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%B2%AD%EB%85%84%EC%A0%95%EC%B1%85",
+    "sameAs": [
+      "https://www.kinfa.or.kr"
+    ],
+    "isRelatedTo": [
+      "청년도약계좌 만기금액",
+      "청년도약계좌 중도해지",
+      "청년희망적금 환승"
+    ],
+    "mentions": [
+      "중도 해지 시 정부기여금은 어떻게 되나요?"
+    ]
+  },
   "청년미래적금": {
   "@type": "FinancialService",
   "name": "청년미래적금 (Youth Future Savings Account)",
@@ -43335,12 +43621,16 @@ window.AUTHORITY_MAP = {
       "알뜰폰 요금제 비교",
       "선택약정 25% 할인 신청",
       "통신비 미환급금 조회",
-      "자급제 폰 결합할인"
+      "자급제 폰 결합할인",
+      "선택약정 25% 할인",
+      "통신사 제휴카드",
+      "가족결합 할인",
     ],
     "mentions": [
       "알뜰폰 바꾸면 기존 번호 그대로 쓰나요?",
       "선택약정 만료 확인 및 재가입 방법",
-      "가족 결합 할인 중복 적용 가능한가요?"
+      "가족 결합 할인 중복 적용 가능한가요?",
+      "선택약정 재가입 신청은 어떻게 하나요?",
     ]
   },
   "통신비 절약 꿀팁": {
@@ -45430,6 +45720,24 @@ window.AUTHORITY_MAP = {
     "거시경제 지표"
   ]
 },
+  "한국은행 금융통화위원회": {
+    "@type": "Thing",
+    "name": "금통위 통화정책 방향 및 의결 일정",
+    "priority": "medium",
+    "description": "한은 금통위 회의 결과 발표 및 향후 통화정책 시그널 해설",
+    "about": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89_%EA%B8%88%EC%9C%B5%ED%86%B5%ED%99%94%EC%9C%84%EC%9B%90%ED%9A%8C",
+    "sameAs": [
+      "https://www.bok.or.kr"
+    ],
+    "isRelatedTo": [
+      "금통위 의결 일정",
+      "한은 총재 기자회견",
+      "시중은행 예금금리"
+    ],
+    "mentions": [
+      "다음 금통위 회의 날짜는 언제인가요?"
+    ]
+  },
   "한국은행 기준금리 전망": {
     "@type": "Article",
     "name": "기준금리 변동에 따른 대출 금리 및 부동산 영향 분석",
@@ -46650,6 +46958,26 @@ window.AUTHORITY_MAP = {
       "소득 주권"
     ],
 },
+  "혈압 낮추는 음식": {
+    "@type": "Food",
+    "name": "혈압 조절 식단 및 음식",
+    "priority": "high",
+    "description": "나트륨 배출과 혈관 건강을 돕는 일상 속 식재료 추천",
+    "about": "https://ko.wikipedia.org/wiki/%EC%8B%9D%EC%8A%B5%EA%B4%80",
+    "sameAs": [
+      "https://www.foodsafetykorea.go.kr"
+    ],
+    "isRelatedTo": [
+      "칼륨 많은 음식",
+      "바나나 혈압",
+      "고혈압에 좋은 차",
+      "DASH 식단"
+    ],
+    "mentions": [
+      "혈압 낮추는 데 제일 좋은 과일은?",
+      "고혈압 환자가 피해야 할 음식 목록"
+    ]
+  },
   "혈액 순환": {
     "@type": "TherapeuticProcedure",
     "name": "혈액순환 (Blood Circulation)",
