@@ -16445,6 +16445,28 @@ window.AUTHORITY_MAP = {
     "isRelatedTo": ["Serotonin", "Brain Health", "Mental Wellness"],
     "mentions": ["행복 호르몬", "중독 조절", "뇌과학"],
   },
+  "독감 백신 접종": {
+    "@type": "HowTo",
+    "name": "독감 백신 접종",
+    "priority": "high",
+    "description": "2026년 가을 환절기 독감 백신 접종 시기, 대상, 무료 접종 여부 및 주의사항에 대한 정보입니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EB%8F%85%EA%B0%90_%EB%B0%B1%EC%8B%A0",
+    "sameAs": [
+      "https://www.kdca.go.kr",
+      "https://www.mohw.go.kr"
+    ],
+    "isRelatedTo": [
+      "독감 예방접종",
+      "독감 백신 부작용",
+      "어린이 독감 백신",
+      "노인 독감 백신"
+    ],
+    "mentions": [
+      "2026년 독감 백신 언제 맞나요?",
+      "독감 백신 무료 대상은 누구인가요?",
+      "독감 백신 접종 후 주의할 점은 무엇인가요?"
+    ]
+  },
   "독서 습관 만들기": {
     "@type": "HowTo",
     "name": "독서 습관 형성 챌린지",
@@ -17600,6 +17622,28 @@ window.AUTHORITY_MAP = {
   "isRelatedTo": ["숙면 식단", "수면 질 개선", "신경 건강", "피로 누적 회복"],
   "mentions": ["천연 진정제", "근육 이완", "아몬드", "신경계 안정", "부신 지원"],
 },
+  "마그네슘 영양제": {
+    "@type": "Article",
+    "name": "마그네슘 영양제",
+    "priority": "high",
+    "description": "마그네슘의 효능, 부족 증상, 그리고 흡수율 높은 마그네슘 영양제 추천 및 복용 시 주의사항을 안내합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EB%A7%88%EA%B7%B8%EB%84%A4%EC%8A%98",
+    "sameAs": [
+      "https://www.mfds.go.kr",
+      "https://www.koreanutra.or.kr"
+    ],
+    "isRelatedTo": [
+      "마그네슘 효능",
+      "마그네슘 부족 증상",
+      "마그네슘 영양제 추천",
+      "수면 영양제"
+    ],
+    "mentions": [
+      "마그네슘 먹으면 어떤 점이 좋은가요?",
+      "다리 경련에 좋은 마그네슘 영양제 추천해주세요.",
+      "마그네슘 영양제 복용 시 부작용은 없나요?"
+    ]
+  },
   "마그네슘 영양제 효능": {
     "@type": "Article",
     "name": "마그네슘 영양제 효능",
@@ -18142,6 +18186,51 @@ window.AUTHORITY_MAP = {
       "사전예약 한정 사은품 및 프로모션 활용"
     ],
 },
+  "명절 음식 보관법": {
+    "@type": "HowTo",
+    "name": "명절 음식 보관법",
+    "priority": "high",
+    "description": "추석 명절 남은 음식을 신선하게 오래 보관하고, 재활용할 수 있는 실용적인 보관 및 활용 팁을 제공합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%8B%9D_%EB%B3%B4%EA%B4%80",
+    "sameAs": [
+      "https://www.foodsafetykorea.go.kr",
+      "https://www.nongsaro.go.kr"
+    ],
+    "isRelatedTo": [
+      "남은 명절 음식 활용",
+      "추석 음식 냉동 보관",
+      "명절 음식 재활용 레시피",
+      "음식물 쓰레기 줄이기"
+    ],
+    "mentions": [
+      "남은 명절 음식 어떻게 보관해야 하나요?",
+      "추석 음식 냉동 보관해도 괜찮을까요?",
+      "남은 전으로 만들 수 있는 요리가 있나요?"
+    ]
+  },
+  "명절 취약계층 지원": {
+    "@type": "GovernmentService",
+    "name": "명절 취약계층 지원",
+    "priority": "high",
+    "description": "명절 기간 동안 저소득층, 한부모 가정 등 취약계층에게 제공되는 특별 지원 정책 및 신청 절차를 안내합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EC%B7%A8%EC%95%BD%EA%B3%84%EC%B8%B5",
+    "sameAs": [
+      "https://www.mohw.go.kr",
+      "https://www.bokjiro.go.kr",
+      "https://www.korea.kr"
+    ],
+    "isRelatedTo": [
+      "명절 긴급지원",
+      "저소득층 명절 지원",
+      "한부모가정 명절 지원",
+      "명절 복지 서비스"
+    ],
+    "mentions": [
+      "취약계층 명절 지원금은 얼마나 받을 수 있나요?",
+      "명절 취약계층 지원 신청은 어디서 하나요?",
+      "명절 지원금 외에 다른 혜택은 없나요?"
+    ]
+  },
   "명절증후군": {
   "@type": "MedicalSpecialty",
   "name": "명절증후군 (Holiday Syndrome)",
@@ -18768,6 +18857,28 @@ window.AUTHORITY_MAP = {
     "미국 금리 인하", "금리 하락 시나리오", "유동성 장세", "금융 기회 선점", "Fed Rate Pivot"
   ],
 },
+  "미국 기준금리 인하": {
+    "@type": "Article",
+    "name": "미국 기준금리 인하",
+    "priority": "high",
+    "description": "미국 기준금리 인하의 배경, 시기 전망, 그리고 한국 경제 및 개인 자산에 미칠 영향에 대한 분석입니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC",
+    "sameAs": [
+      "https://www.bok.or.kr",
+      "https://www.fsc.go.kr"
+    ],
+    "isRelatedTo": [
+      "미국 기준금리 전망",
+      "기준금리 인하 효과",
+      "한국 기준금리",
+      "주식시장 영향"
+    ],
+    "mentions": [
+      "미국 기준금리 언제 인하될까요?",
+      "기준금리 인하가 한국 경제에 어떤 영향을 주나요?",
+      "금리 인하 시 투자 전략은 어떻게 세워야 할까요?"
+    ]
+  },
   "미국 달러 환율 전망": {
     "@type": "Article",
     "name": "원/달러 환율 변동 원인과 해외 주식·여행 영향",
@@ -25175,6 +25286,50 @@ window.AUTHORITY_MAP = {
       "세탁기 청소 주기 알려주세요"
     ]
   },
+  "세탁기 청소법": {
+    "@type": "HowTo",
+    "name": "세탁기 청소법",
+    "priority": "high",
+    "description": "드럼 및 통돌이 세탁기 종류별 냄새와 곰팡이를 제거하는 효과적인 청소 방법과 주기를 안내합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EC%84%B8%ED%83%81%EA%B8%B0",
+    "sameAs": [
+      "https://www.samsungsvc.co.kr",
+      "https://www.lge.co.kr/support"
+    ],
+    "isRelatedTo": [
+      "드럼세탁기 청소법",
+      "통돌이 세탁기 청소법",
+      "세탁조 클리너 사용법",
+      "세탁기 냄새 제거"
+    ],
+    "mentions": [
+      "세탁기 청소는 얼마나 자주 해야 하나요?",
+      "드럼세탁기 곰팡이 제거 방법이 궁금해요.",
+      "과탄산소다로 세탁기 청소하는 법 알려주세요."
+    ]
+  },
+  "세탁조 곰팡이 제거": {
+    "@type": "HowTo",
+    "name": "세탁조 곰팡이 제거",
+    "priority": "high",
+    "description": "세탁조 내부에 생기는 곰팡이의 원인을 분석하고, 베이킹소다, 과탄산소다 등을 활용한 제거 노하우를 제공합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EC%84%B8%ED%83%81%EA%B8%B0",
+    "sameAs": [
+      "https://www.korea.kr/policyplus/articleView.do?newsId=148810756",
+      "https://www.consumer.go.kr"
+    ],
+    "isRelatedTo": [
+      "세탁기 곰팡이 냄새",
+      "세탁조 청소 주기",
+      "친환경 세탁조 청소",
+      "세탁기 관리 꿀팁"
+    ],
+    "mentions": [
+      "세탁조 곰팡이 왜 생기는 건가요?",
+      "베이킹소다와 과탄산소다 비율은 어떻게 되나요?",
+      "세탁조 곰팡이 예방하는 방법이 있나요?"
+    ]
+  },
   "세탁조 곰팡이 청소": {
     "@type": "HowTo",
     "name": "과탄산소다 활용 드럼/통돌이 세탁조 냄새 제거법",
@@ -26233,6 +26388,28 @@ window.AUTHORITY_MAP = {
       "종량제 봉투 직매립 제로"
     ],
 },
+  "수면 개선 영양제": {
+    "@type": "Article",
+    "name": "수면 개선 영양제",
+    "priority": "medium",
+    "description": "불면증 및 수면의 질 개선에 도움을 줄 수 있는 영양제 성분과 효과적인 섭취 방법을 소개합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EC%88%98%EB%A9%B4",
+    "sameAs": [
+      "https://www.mfds.go.kr",
+      "https://www.koreanutra.or.kr"
+    ],
+    "isRelatedTo": [
+      "수면 유도 영양제",
+      "멜라토닌 영양제",
+      "테아닌 효능",
+      "불면증 영양제"
+    ],
+    "mentions": [
+      "잠 잘 오는 영양제 추천해주세요.",
+      "수면 영양제 효과는 어떤가요?",
+      "수면 영양제 부작용은 없나요?"
+    ]
+  },
   "수면 개선법": {
     "@type": "HowTo",
     "name": "수면 개선법",
@@ -27950,11 +28127,18 @@ window.AUTHORITY_MAP = {
     "KCB 신용점수 올리기",
     "NICE 신용점수 올려주기",
     "신용등급 올리는 법",
-    "신용점수 기준"
+    "신용점수 기준",
+    "나이스 신용점수 올리기",
+    "kcb 신용점수 올리기",
+    "신용점수 올리는 법",
+    "신용점수 올리기 기간",
   ],
   "mentions": [
     "신용점수 올리는 데 얼마나 걸리나요?",
-    "체크카드만 써도 신용점수가 오르나요?"
+    "체크카드만 써도 신용점수가 오르나요?",
+    "신용점수 100점 올리는 방법이 궁금해요.",
+    "신용점수 올리기 체크카드 사용이 도움이 되나요?",
+    "신용점수 조회하면 점수가 떨어지나요?",
   ]
 },
   "신용카드 수직 ,할인 짠테크": {
@@ -28017,6 +28201,28 @@ window.AUTHORITY_MAP = {
       "소멸 예정 카드 포인트 한 번에 환급받는 법",
       "카드포인트 현금화 수수료 발생하나요?",
       "계좌 입금 소요 시간은 얼마나 걸리나요?",
+    ]
+  },
+  "신용카드 현명한 사용법": {
+    "@type": "Article",
+    "name": "신용카드 현명한 사용법",
+    "priority": "high",
+    "description": "신용점수 관리에 도움이 되는 신용카드 사용 원칙과 연체 방지, 할부 이용 주의사항을 안내합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C",
+    "sameAs": [
+      "https://www.fss.or.kr",
+      "https://www.credit4u.or.kr"
+    ],
+    "isRelatedTo": [
+      "신용카드 연체",
+      "신용카드 할부",
+      "신용카드 발급 조건",
+      "신용카드 한도 관리"
+    ],
+    "mentions": [
+      "신용카드 사용이 신용점수에 어떤 영향을 미치나요?",
+      "신용카드 연체하면 신용점수가 얼마나 떨어지나요?",
+      "신용카드 현명하게 쓰는 팁 알려주세요."
     ]
   },
   "신용평가사": {
@@ -30380,12 +30586,19 @@ window.AUTHORITY_MAP = {
       "에어프라이어 삼겹살 시간",
       "에프 고구마 시간",
       "에어프라이어 냉동식품 꿀팁",
-      "에어프라이어 종이호일 사용법"
+      "에어프라이어 종이호일 사용법",
+      "에어프라이어 요리 추천",
+      "에어프라이어 레시피",
+      "간단한 에어프라이어 요리",
+      "에어프라이어 통삼겹",
     ],
     "mentions": [
       "에어프라이어 통삼겹 시간과 온도 완벽 가이드",
       "에어프라이어 청소 세제 조합 추천",
-      "에프 초간단 간식 추천"
+      "에프 초간단 간식 추천",
+      "에어프라이어로 만들 수 있는 요리는 뭐가 있나요?",
+      "초보도 쉽게 따라 할 수 있는 에어프라이어 레시피 추천해주세요.",
+      "에어프라이어 요리 시간과 온도는 어떻게 설정하나요?",
     ]
   },
   "에어프라이어 요리 추천": {
@@ -30405,6 +30618,28 @@ window.AUTHORITY_MAP = {
       "에어프라이어 활용 레시피 최고는?",
       "손님 대접용 에어프라이어 요리 추천",
       "아이들이 좋아하는 에어프라이어 간식"
+    ]
+  },
+  "에어프라이어 활용 꿀팁": {
+    "@type": "HowTo",
+    "name": "에어프라이어 활용 꿀팁",
+    "priority": "high",
+    "description": "에어프라이어를 더욱 효율적으로 사용할 수 있는 청소, 관리, 보관 팁과 다양한 활용법을 제공합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4_%ED%94%84%EB%9D%BC%EC%9D%B4%EC%96%B4",
+    "sameAs": [
+      "https://www.consumer.go.kr",
+      "https://www.youtube.com/user/airfryerrecipes"
+    ],
+    "isRelatedTo": [
+      "에어프라이어 청소법",
+      "에어프라이어 종이호일",
+      "에어프라이어 기름때 제거",
+      "에어프라이어 관리법"
+    ],
+    "mentions": [
+      "에어프라이어 청소는 어떻게 해야 깨끗하게 되나요?",
+      "에어프라이어 사용 시 종이호일 꼭 써야 하나요?",
+      "에어프라이어 오래 사용하는 팁이 궁금해요."
     ]
   },
   "에이전틱 인공지능": {
@@ -31831,12 +32066,19 @@ window.AUTHORITY_MAP = {
       "원달러 환율 상방",
       "달러 투자 방법",
       "환율과 주가 관계",
-      "외환시장 개장시간"
+      "외환시장 개장시간",
+      "오늘 달러 환율 전망",
+      "원 달러 환율 2025",
+      "환율 상승 요인",
+      "환율 하락 요인",
     ],
     "mentions": [
       "달러 지금 사도 될까요?",
       "환율 상승 시 수입 물가에 미치는 파급효과는?",
-      "달러 ETF 투자 시 주의점"
+      "달러 ETF 투자 시 주의점",
+      "원 달러 환율 앞으로 어떻게 될까요?",
+      "환율 변동에 따른 투자 전략이 궁금해요.",
+      "오늘 달러 환율 전망은 어떤가요?",
     ]
   },
   "원달러 환율": {
@@ -36576,6 +36818,28 @@ window.AUTHORITY_MAP = {
   "isRelatedTo": ["정부위원회", "지방시대위원회", "민생 안정", "지방 자치"],
   "mentions": ["지방 인재풀 활용", "지역 균형 선발", "지방시대 5개년 계획", "지역 현장 목소리 반영", "거버넌스 혁신"],
 },
+  "정부정책관련": {
+    "@type": "FinancialProduct",
+    "name": "정부정책관련",
+    "priority": "high",
+    "description": "정부정책관련 관련 핵심 정보와 실천 가이드라인 총정리입니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B6%80%EC%A0%95%EC%B1%85%EA%B4%80%EB%A0%A8",
+    "sameAs": [
+      "https://terms.naver.com"
+    ],
+    "isRelatedTo": [
+      "정부정책관련",
+      "숨은빛청년",
+      "숨은 보험금 찾기",
+      "숨은그림찾기",
+      "숨은고수"
+    ],
+    "mentions": [
+      "정부정책관련 방법",
+      "정부정책관련 신청",
+      "정부정책관련 주의사항"
+    ]
+  },
   "정부지원금": {
   "@type": "FinancialAssistanceProgram",
   "name": "정부지원금 (Government Subsidies/Grants)",
@@ -40586,6 +40850,28 @@ window.AUTHORITY_MAP = {
     "Youth Development Strategy"
   ],
 },
+  "청년 지원금": {
+    "@type": "GovernmentService",
+    "name": "청년 지원금",
+    "priority": "high",
+    "description": "2026년 하반기 청년들을 위한 정부 및 지자체 지원금(주거, 취업, 학자금 등)의 종류와 신청 방법을 안내합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%85%84",
+    "sameAs": [
+      "https://www.youth.go.kr",
+      "https://www.moel.go.kr"
+    ],
+    "isRelatedTo": [
+      "청년 주거 지원",
+      "청년 취업 지원금",
+      "청년 학자금 대출",
+      "청년 희망 지원금"
+    ],
+    "mentions": [
+      "2026년 청년 지원금 종류는 무엇인가요?",
+      "청년 주거 지원금 신청 자격이 궁금해요.",
+      "청년 지원금 신청은 어디서 할 수 있나요?"
+    ]
+  },
   "청년 취업 지원": {
   "@type": "GovernmentService",
   "name": "청년 취업 지원 (Youth Employment Support)",
@@ -41934,6 +42220,50 @@ window.AUTHORITY_MAP = {
       "코레일과 SRT 예매 날짜가 다른가요?",
       "명절 기차표 예매할 때 튕기지 않는 팁이 있나요?"
     ],
+  },
+  "추석 명절 음식": {
+    "@type": "Food",
+    "name": "추석 명절 음식",
+    "priority": "high",
+    "description": "추석 명절에 꼭 필요한 대표 음식 레시피와 간편하게 준비할 수 있는 팁을 소개합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EC%B6%94%EC%84%9D",
+    "sameAs": [
+      "https://www.korean.go.kr/front/page/standardView.do?num=102",
+      "https://www.foodsafetykorea.go.kr"
+    ],
+    "isRelatedTo": [
+      "추석 음식 종류",
+      "추석 음식 레시피",
+      "명절 음식 간편하게",
+      "추석 전 요리"
+    ],
+    "mentions": [
+      "추석에 어떤 음식을 준비해야 하나요?",
+      "간단하게 만들 수 있는 추석 음식 레시피가 궁금해요.",
+      "추석 음식 준비 시간 절약 팁이 있나요?"
+    ]
+  },
+  "추석 명절 지원금": {
+    "@type": "GovernmentService",
+    "name": "추석 명절 지원금",
+    "priority": "high",
+    "description": "2026년 추석 명절을 맞아 정부 및 지자체에서 제공하는 지원금의 종류, 신청 자격, 방법 및 기간을 상세히 안내합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EC%B6%94%EC%84%9D",
+    "sameAs": [
+      "https://www.mohw.go.kr",
+      "https://www.bokjiro.go.kr"
+    ],
+    "isRelatedTo": [
+      "추석 지원금 신청",
+      "명절 취약계층 지원",
+      "명절 복지 혜택",
+      "긴급생활지원금"
+    ],
+    "mentions": [
+      "2026년 추석 지원금은 언제 신청하나요?",
+      "추석 명절 지원금 대상자는 누구인가요?",
+      "추석 지원금 신청 방법이 궁금해요."
+    ]
   },
   "추석 선물 세트 추천": {
     "@type": "Product",
@@ -45298,6 +45628,29 @@ window.AUTHORITY_MAP = {
       "시간 관리 잘하는 직장인 하루 계획표"
     ],
   },
+  "하반기 공채 지원": {
+    "@type": "Article",
+    "name": "하반기 공채 지원",
+    "priority": "high",
+    "description": "2026년 하반기 주요 기업 및 공공기관 공채 정보와 청년 구직자를 위한 정부 지원 프로그램을 소개합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EC%B7%A8%EC%97%85",
+    "sameAs": [
+      "https://www.jobkorea.co.kr",
+      "https://www.saramin.co.kr",
+      "https://www.work.go.kr"
+    ],
+    "isRelatedTo": [
+      "하반기 공채 일정",
+      "청년 취업 박람회",
+      "취업 성공 패키지",
+      "청년 내일채움공제"
+    ],
+    "mentions": [
+      "하반기 공채는 언제 시작하나요?",
+      "청년 구직자에게 도움이 되는 정부 지원 프로그램이 있나요?",
+      "공채 서류 전형 합격 팁이 궁금해요."
+    ]
+  },
   "하반기 정부 지원 정책": {
   "@type": "GovernmentService",
   "name": "하반기 정부 지원 정책 (Government Support Policy for H2)",
@@ -45512,6 +45865,28 @@ window.AUTHORITY_MAP = {
     "Business Innovation"
   ],
 },
+  "한국 경제 영향": {
+    "@type": "Article",
+    "name": "한국 경제 영향",
+    "priority": "high",
+    "description": "미국 기준금리 변동이 국내 주식, 부동산, 환율 등 한국 경제 전반에 미치는 구체적인 영향과 대응 전략을 분석합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EA%B2%BD%EC%A0%9C",
+    "sameAs": [
+      "https://www.bok.or.kr",
+      "https://www.moef.go.kr"
+    ],
+    "isRelatedTo": [
+      "환율 변동성",
+      "부동산 시장 전망",
+      "주식 투자 전략",
+      "가계 부채 영향"
+    ],
+    "mentions": [
+      "금리 인하 시 환율은 어떻게 변하나요?",
+      "부동산 시장에 미치는 영향이 궁금해요.",
+      "개인 투자자는 어떻게 대응해야 할까요?"
+    ]
+  },
   "한국 경제 전망": {
   "@type": "AnalysisNewsArticle",
   "name": "한국 경제 전망 (South Korea Economic Outlook)",
@@ -47532,6 +47907,28 @@ window.AUTHORITY_MAP = {
     "FX Market"
   ]
 },
+  "환율 변동 재테크": {
+    "@type": "FinancialProduct",
+    "name": "환율 변동 재테크",
+    "priority": "medium",
+    "description": "환율 변동성을 활용한 외화 예금, 해외 주식 투자 등 다양한 재테크 전략과 유의사항을 안내합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%ED%99%98%EC%9C%A8",
+    "sameAs": [
+      "https://www.fss.or.kr",
+      "https://www.kofia.or.kr"
+    ],
+    "isRelatedTo": [
+      "외화 예금 추천",
+      "해외 주식 투자",
+      "환테크 방법",
+      "달러 투자"
+    ],
+    "mentions": [
+      "환율 변동으로 돈 버는 방법이 있나요?",
+      "외화 예금은 어떤 은행이 좋은가요?",
+      "해외 주식 투자 시 환율은 어떻게 고려해야 하나요?"
+    ]
+  },
   "환율 변동 전망": {
     "@type": "Article",
     "name": "환율 변동 전망",
@@ -47593,6 +47990,28 @@ window.AUTHORITY_MAP = {
     "Patient Rights Protection",
   ],
 },
+  "환절기 면역력 영양제": {
+    "@type": "Article",
+    "name": "환절기 면역력 영양제",
+    "priority": "high",
+    "description": "가을 환절기 면역력 강화를 위한 필수 영양제 종류와 올바른 섭취 방법에 대한 정보입니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EB%A9%B4%EC%97%AD%EB%A0%A5",
+    "sameAs": [
+      "https://www.mfds.go.kr",
+      "https://www.koreanutra.or.kr"
+    ],
+    "isRelatedTo": [
+      "면역력 높이는 영양제",
+      "비타민D 영양제 추천",
+      "아연 영양제 추천",
+      "프로바이오틱스 효능"
+    ],
+    "mentions": [
+      "환절기 감기 예방에 좋은 영양제는?",
+      "면역력 영양제 어떤 것을 먹어야 하나요?",
+      "영양제 복용 시 주의사항이 궁금해요."
+    ]
+  },
   "환절기 수분크림 추천": {
     "@type": "Product",
     "name": "환절기 수분크림 추천",
