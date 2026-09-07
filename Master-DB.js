@@ -18208,6 +18208,30 @@ window.AUTHORITY_MAP = {
       "남은 전으로 만들 수 있는 요리가 있나요?"
     ]
   },
+  "명절 지원금": {
+    "@type": "GovernmentService",
+    "name": "명절 지원금",
+    "priority": "high",
+    "description": "정부 및 지자체에서 명절 기간 동안 국민의 경제적 부담을 덜어주기 위해 제공하는 다양한 형태의 재정적 지원입니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%A1%B0%EA%B8%88",
+    "sameAs": [
+      "https://www.gov.kr/portal/main",
+      "https://www.bokjiro.go.kr/ssis-tbu/index.do"
+    ],
+    "isRelatedTo": [
+      "정부정책",
+      "사회복지",
+      "경제적 지원",
+      "명절",
+      "가계부담"
+    ],
+    "mentions": [
+      "명절 지원금 신청 자격 및 방법은?",
+      "정부 명절 지원금 종류에는 무엇이 있나요?",
+      "지자체별 명절 지원금 혜택은 어떻게 되나요?",
+      "명절 지원금으로 가계 경제에 어떤 도움이 되나요?"
+    ]
+  },
   "명절 취약계층 지원": {
     "@type": "GovernmentService",
     "name": "명절 취약계층 지원",
@@ -31618,6 +31642,30 @@ window.AUTHORITY_MAP = {
       "소득 주권"
     ],
 },
+  "온누리상품권": {
+    "@type": "FinancialProduct",
+    "name": "온누리상품권",
+    "priority": "high",
+    "description": "전통시장 및 상점가 활성화를 위해 발행되는 상품권으로, 명절 기간 등 특정 시기에 할인 구매 혜택을 제공합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EC%98%A8%EB%88%84%EB%A6%AC%EC%83%81%ED%92%88%EA%B6%8C",
+    "sameAs": [
+      "https://www.onnurimarket.kr/",
+      "https://terms.naver.com/entry.naver?docId=2097762&cid=43167&categoryId=43167"
+    ],
+    "isRelatedTo": [
+      "전통시장",
+      "상품권",
+      "명절",
+      "지역경제",
+      "할인"
+    ],
+    "mentions": [
+      "온누리상품권 15% 할인 구매 방법은?",
+      "온누리상품권 사용처는 어디인가요?",
+      "온누리상품권 종류와 구매 한도는?",
+      "온누리상품권으로 명절 선물 구매 시 이점은?"
+    ]
+  },
   "온동네 초등돌봄": {
     "@type": "GovernmentService",
     "name": "온동네 초등돌봄",
