@@ -6081,8 +6081,8 @@ window.AUTHORITY_MAP = {
       "https://www.fornomadlife.com/2026/02/korea-base-rate-outlook-2026-mortgage-trend-ko.html",
       "https://money.fornomadlife.com/2025/12/2026-financial-system-mortgage-regulations-growth-fund-ko.html"
     ],
-    "isRelatedTo": ["Mortgage Loan", "Base Rate", "DSR Regulation"],
-    "mentions": ["대출 규제", "원리금 상환", "금융 안정성"],
+    "isRelatedTo": ["Mortgage Loan", "Base Rate", "DSR Regulation", "대출 규제", "금리 인상", "부동산 시장", "소비 심리", "경제 성장"],
+    "mentions": ["대출 규제", "원리금 상환", "금융 안정성", "한국 가계부채 현황은?", "가계부채 증가 원인은 무엇인가요?", "가계부채가 경제에 미치는 영향은?", "가계부채 관리 방안은?"],
   },
   "가계부채 관리 강화": {
     "@type": "GovernmentService",
@@ -19097,6 +19097,28 @@ window.AUTHORITY_MAP = {
     "미국 FCC 규제", "보안 인증 강화", "공급망 추적성", "자산 방어 전략", "Regulatory Compliance"
   ],
 },
+  "미국기준금리인하영향": {
+    "@type": "Article",
+    "name": "미국기준금리인하영향",
+    "priority": "high",
+    "description": "미국기준금리인하영향 관련 핵심 정보와 실천 가이드라인 총정리입니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%EC%9D%B8%ED%95%98%EC%98%81%ED%96%A5",
+    "sameAs": [
+      "https://terms.naver.com"
+    ],
+    "isRelatedTo": [
+      "미국기준금리인하영향",
+      "미국환율",
+      "미국증시",
+      "미국이란전쟁",
+      "미국시간"
+    ],
+    "mentions": [
+      "미국기준금리인하영향 방법",
+      "미국기준금리인하영향 신청",
+      "미국기준금리인하영향 주의사항"
+    ]
+  },
   "미니멀 라이프": {
     "@type": "LifestyleConcept",
     "name": "미니멀 라이프 (Minimalist Living / 소유의 최적화)",
@@ -21425,11 +21447,20 @@ window.AUTHORITY_MAP = {
   "externalAuthority": ["https://www.moef.go.kr/"],
   "isRelatedTo": [
     "주택 시장 진단", "토지거래허가", "자금조달계획서", 
-    "2026년 예산안", "민생 안정"
+    "2026년 예산안", "민생 안정",
+    "2026 부동산 정책",
+    "가계부채 관리 방안",
+    "대출 세금 규제",
+    "부동산 시장 전망",
+    "청년 신혼부부 혜택",
   ],
   "mentions": [
     "공급 대책", "LTV·DSR 규제", "부동산 세제 개편", 
-    "공공주택 보급", "임대차 시장 안정", "주거 사다리 복원"
+    "공공주택 보급", "임대차 시장 안정", "주거 사다리 복원",
+    "2026년 부동산 정책 변화는 무엇인가요?",
+    "부동산 대출 규제 어떻게 바뀌나요?",
+    "청년 신혼부부 부동산 혜택은?",
+    "가계부채 관리 방안이 부동산 시장에 미치는 영향은?",
   ],
 },
   "부동산 취득세 감면": {
@@ -36896,6 +36927,26 @@ window.AUTHORITY_MAP = {
       "청년월세특별지원",
       "복지로신청",
       "청년월세지원조건",
+      "미국 기준금리 인하 영향",
+      "미국 기준금리 인하 한국 영향",
+      "미국 기준금리 인하 효과",
+      "미국 기준금리 인하 시나리오",
+      "추석 명절 지원금",
+      "민생지원금",
+      "명절 지원금 신청",
+      "명절 지원금 지역별",
+      "드럼세탁기청소법",
+      "드럼세탁기문잠김",
+      "소형드럼세탁기",
+      "드럼세탁기15KG",
+      "신용점수 올리기",
+      "나이스 신용점수 올리기",
+      "토스 신용점수 올리기",
+      "신용점수 올리기 방법",
+      "청년 월세 특별지원",
+      "하반기 공채 정보",
+      "정부지원금 신청",
+      "청년 정책",
     ],
     "mentions": [
       "정부정책관련 방법",
@@ -36910,10 +36961,19 @@ window.AUTHORITY_MAP = {
   "description": "특정한 정책 목적을 달성하기 위해 국가나 지자체가 개인 혹은 기업에 무상이나 유리한 조건으로 지급하는 경제적 자원입니다. (Financial resources provided by the state or local governments to individuals or businesses for specific policy objectives.)",
   "about": [ "https://subsidygo.fornomadlife.com" ],
   "isRelatedTo": [
-    "국가보조금", "바우처 지원", "현금성 복지", "Government Funding", "Public Grant"
+    "국가보조금", "바우처 지원", "현금성 복지", "Government Funding", "Public Grant",
+    "복지 정책",
+    "사회 안전망",
+    "생활 안정",
+    "지원 사업",
+    "정책 자금",
   ],
   "mentions": [
-    "정부지원금", "정부 지원금", "소득 주권 수호", "금융 기회 선점", "미래 자산 형성", "Public Financial Support"
+    "정부지원금", "정부 지원금", "소득 주권 수호", "금융 기회 선점", "미래 자산 형성", "Public Financial Support",
+    "나에게 맞는 정부지원금 찾는 방법은?",
+    "정부지원금 신청 자격 조건은 무엇인가요?",
+    "정부지원금 종류에는 어떤 것들이 있나요?",
+    "정부지원금 부정수급 시 처벌은 어떻게 되나요?",
   ],
 },
   "정부지원금 신청": {
@@ -42351,12 +42411,21 @@ window.AUTHORITY_MAP = {
       "추석 지원금 신청",
       "명절 취약계층 지원",
       "명절 복지 혜택",
-      "긴급생활지원금"
+      "긴급생활지원금",
+      "정부지원금",
+      "명절 혜택",
+      "신청 방법",
+      "복지 정책",
+      "지역사랑상품권",
     ],
     "mentions": [
       "2026년 추석 지원금은 언제 신청하나요?",
       "추석 명절 지원금 대상자는 누구인가요?",
-      "추석 지원금 신청 방법이 궁금해요."
+      "추석 지원금 신청 방법이 궁금해요.",
+      "추석 명절 지원금 신청 기간은 언제인가요?",
+      "2025년 추석 명절 지원금 종류는 무엇인가요?",
+      "추석 명절 승차권 할인 혜택은 어떻게 받나요?",
+      "추석 명절 선물 세트 구매 시 혜택이 있나요?",
     ]
   },
   "추석 선물 세트 추천": {
