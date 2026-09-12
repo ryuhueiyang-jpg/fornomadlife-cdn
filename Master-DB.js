@@ -28184,6 +28184,30 @@ window.AUTHORITY_MAP = {
     "Business Innovation"
   ],
 },
+  "신용점수": {
+    "@type": "HowTo",
+    "name": "신용점수",
+    "priority": "high",
+    "description": "개인의 신용도를 수치화한 지표로, 금융 거래 시 대출 심사 등에 활용되며 관리가 중요합니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%9A%A9%ED%8F%89%EA%B0%80",
+    "sameAs": [
+      "https://terms.naver.com/entry.naver?docId=1092671&cid=40942&categoryId=31828",
+      "https://www.koreacb.com/credit/credit_info.do"
+    ],
+    "isRelatedTo": [
+      "NICE KCB",
+      "신용카드 선결제",
+      "한도 소진율",
+      "단기 연체",
+      "토스 신용점수"
+    ],
+    "mentions": [
+      "신용점수 올리는 법",
+      "신용점수 무료 조회",
+      "NICE KCB 신용점수 차이",
+      "신용카드 한도 소진율 관리"
+    ]
+  },
   "신용점수 올리기": {
   "@type": "HowTo",
   "name": "올원/KCB 신용점수 단기 올리기 노하우",
@@ -28213,6 +28237,29 @@ window.AUTHORITY_MAP = {
     "신용점수 조회하면 점수가 떨어지나요?",
   ]
 },
+  "신용카드": {
+    "@type": "FinancialProduct",
+    "name": "신용카드",
+    "priority": "medium",
+    "description": "신용을 바탕으로 상품이나 서비스를 구매하고 일정 기간 후 대금을 지불하는 금융 결제 수단입니다.",
+    "about": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C",
+    "sameAs": [
+      "https://terms.naver.com/entry.naver?docId=1119747&cid=40942&categoryId=31828"
+    ],
+    "isRelatedTo": [
+      "신용점수",
+      "체크카드",
+      "할부",
+      "카드론",
+      "현금서비스"
+    ],
+    "mentions": [
+      "신용카드 발급 조건",
+      "신용카드 연회비",
+      "신용카드 혜택 비교",
+      "신용카드 현금서비스"
+    ]
+  },
   "신용카드 수직 ,할인 짠테크": {
     "@type": "HowTo",
     "name": "생활비 줄이는 신용카드 혜택 피킹률 계산 및 피킹방법",
@@ -37041,6 +37088,11 @@ window.AUTHORITY_MAP = {
     "생활 안정",
     "지원 사업",
     "정책 자금",
+    "정부지원금신청",
+    "정부지원금조회",
+    "복지혜택",
+    "보조금24",
+    "정부정책",
   ],
   "mentions": [
     "정부지원금", "정부 지원금", "소득 주권 수호", "금융 기회 선점", "미래 자산 형성", "Public Financial Support",
@@ -37048,6 +37100,10 @@ window.AUTHORITY_MAP = {
     "정부지원금 신청 자격 조건은 무엇인가요?",
     "정부지원금 종류에는 어떤 것들이 있나요?",
     "정부지원금 부정수급 시 처벌은 어떻게 되나요?",
+    "2026년 정부지원금 종류",
+    "나에게 맞는 정부지원금 조회",
+    "정부지원금 신청 방법",
+    "정부지원금 탈락 이유",
   ],
 },
   "정부지원금 신청": {
